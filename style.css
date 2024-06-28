@@ -190,36 +190,27 @@ body {
     background-color: black;
 }
 
-/*.cashier {
-    border: solid 5px #69573e;
-}
-*/
-
 .alien {
     position: absolute;
     top: 300px;
     right: 370px;
 }
 
-/* Style the story image */
 .story-opening img {
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
 }
 
-/* Style the story opening message */
 .story-opening h1 {
     font-size: 20px;
     margin-bottom: 20px;
 }
 
-/* Style the buttons container */
 .buttons {
     margin: 20px;
 }
 
-/* Style the option buttons */
 button {
     font-size: 20px;
     padding: 10px 20px;
@@ -236,7 +227,6 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Style the screens for option one and option two */
 .option-one-screen,
 .option-two-screen,
 .option-one-end,
@@ -249,7 +239,6 @@ button:hover {
     margin-bottom: 10px;
 }
 
-/* Style the images in the screens */
 .option-one-screen img,
 .option-two-screen img,
 .option-one-end img,
@@ -259,7 +248,6 @@ button:hover {
     margin-bottom: 10px;
 }
 
-/* Style the text in the screens */
 .option-one-screen h1,
 .option-two-screen h1,
 .option-one-end h1,
