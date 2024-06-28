@@ -1,0 +1,1 @@
+A "choose your own adventure" game in which the unpredictable experience of being a cashier may be explored. 

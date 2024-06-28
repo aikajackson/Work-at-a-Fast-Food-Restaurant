@@ -1,0 +1,282 @@
+.title {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    text-align: center;
+    position: absolute;
+    bottom: 380px;
+}
+
+.start-button {
+    background-color: #69573e;
+    position: absolute;
+    bottom: 330px;
+    right: 672px;
+    font-size: 20px;
+}
+
+.start-button:hover {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dbcbb2;
+    text-align: center;
+}
+
+.q1-option1 {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;    
+}
+
+.q1-option1:hover {
+    background-color: black;
+}
+
+.q1-option2 {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;    
+}
+
+.q1-option2:hover {
+    background-color: black;
+}
+
+.q2-option1 {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;    
+}
+
+.q2-option1:hover {
+    background-color: black;
+}
+
+.q2-option2 {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;    
+}
+
+.q2-option2:hover {
+    background-color: black;
+}
+
+.q3-option1{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q3-option1:hover {
+    background-color: black;
+}
+
+.q3-option2{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q3-option2:hover {
+    background-color: black;
+}
+
+.q4-option1{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q4-option1:hover {
+    background-color: black;
+}
+
+.q4-option2{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q4-option2:hover {
+    background-color: black;
+}
+
+.q5-option1{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q5-option1:hover {
+    background-color: black;
+}
+
+.q5-option2{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #69573e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.q5-option2:hover {
+    background-color: black;
+}
+
+/*.cashier {
+    border: solid 5px #69573e;
+}
+*/
+
+.alien {
+    position: absolute;
+    top: 300px;
+    right: 370px;
+}
+
+/* Style the story image */
+.story-opening img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Style the story opening message */
+.story-opening h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style the buttons container */
+.buttons {
+    margin: 20px;
+}
+
+/* Style the option buttons */
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Style the screens for option one and option two */
+.option-one-screen,
+.option-two-screen,
+.option-one-end,
+.option-two-end {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+/* Style the images in the screens */
+.option-one-screen img,
+.option-two-screen img,
+.option-one-end img,
+.option-two-end img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/* Style the text in the screens */
+.option-one-screen h1,
+.option-two-screen h1,
+.option-one-end h1,
+.option-two-end h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.restart-button {
+    margin-top: 15px;
+    background-color: #69573e;
+    position: absolute;
+    bottom: 555px;
+    right: 654px;
+    font-size: 20px;
+}
+
+.restart-button:hover {
+    background-color: black;
+}
